@@ -20,7 +20,7 @@ enum IntoColorError {
     // Incorrect length of slice
     BadLen,
     // Integer conversion error
-    IntConversion,чґ
+    IntConversion,
 }
 
 // TODO: Tuple implementation.
